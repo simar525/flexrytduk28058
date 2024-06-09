@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://ryans-dandy-site-db86d6.webflow.io/$1"
+ }
+  ]
+}
